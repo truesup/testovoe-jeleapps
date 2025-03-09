@@ -1,5 +1,5 @@
 function App() {
-  return <></>
+  return <div className="black-square"></div>
 }
 
 export default App
